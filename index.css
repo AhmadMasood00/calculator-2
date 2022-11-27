@@ -1,0 +1,10 @@
+.hol{
+    text-align: center;
+    margin-top: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 600px;
+    padding: 20px;
+    background-color: rgb(99, 127, 204);
+    border-radius: 10px;
+}
